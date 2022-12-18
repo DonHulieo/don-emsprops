@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="500.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.26979770" y="-0.09077780" z="0.00000000"/>
+      <bbMax x="0.26979770" y="0.09077780" z="0.55337990"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.27668990"/>
+      <bsRadius value="0.39697500"/>
+      <hdTextureDist value="150.00000000"/>
+      <name>lucas3</name>
+      <textureDictionary>lucas3</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>lucas3</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>lucas3</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>lucas3</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

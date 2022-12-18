@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="250.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-1.05268700" y="-0.36620940" z="0.00000000"/>
+      <bbMax x="1.05268800" y="0.36620940" z="1.73861800"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.86930900"/>
+      <bsRadius value="1.41349000"/>
+      <hdTextureDist value="150.00000000"/>
+      <name>sittingfernocot</name>
+      <textureDictionary>fernotexture</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>sittingfernocot</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>sittingfernocot</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>sittingfernocot</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="500.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="-0.30072780" y="-0.12728910" z="0.00311440"/>
+      <bbMax x="0.33177620" y="0.15495710" z="0.32136270"/>
+      <bsCentre x="0.01552420" y="0.01383400" z="0.16223850"/>
+      <bsRadius value="0.38111900"/>
+      <hdTextureDist value="150.00000000"/>
+      <name>lifepak15</name>
+      <textureDictionary>lifepak15</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>lifepak15</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>lifepak15</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>lifepak15</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>
