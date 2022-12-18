@@ -4,11 +4,11 @@ EMS props converted for FiveM, originally made by Tiddy ---> [Medical Prop Pack]
 
 ## Installation
 
-1. Download the latest release from [here](
+1. Download the lastest version from GitHub.
 
-2. Extract the zip file into your resources folder
+2. Extract the zip file into your resources folder.
 
-3. Add `start don-emsprops` to your server.cfg
+3. Add `start don-emsprops` to your server.cfg.
 
 ## Spawn Codes
 
